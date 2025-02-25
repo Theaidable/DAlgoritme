@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github Repos\\DAlgoritme\\DAlgoritme.csproj": {}
+    "D:\\Git\\DAlgoritme\\DAlgoritme.csproj": {}
   },
   "projects": {
-    "D:\\Github Repos\\DAlgoritme\\DAlgoritme.csproj": {
+    "D:\\Git\\DAlgoritme\\DAlgoritme.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github Repos\\DAlgoritme\\DAlgoritme.csproj",
+        "projectUniqueName": "D:\\Git\\DAlgoritme\\DAlgoritme.csproj",
         "projectName": "DAlgoritme",
-        "projectPath": "D:\\Github Repos\\DAlgoritme\\DAlgoritme.csproj",
-        "packagesPath": "C:\\Users\\Aidrian\\.nuget\\packages\\",
-        "outputPath": "D:\\Github Repos\\DAlgoritme\\obj\\",
+        "projectPath": "D:\\Git\\DAlgoritme\\DAlgoritme.csproj",
+        "packagesPath": "C:\\Users\\theai\\.nuget\\packages\\",
+        "outputPath": "D:\\Git\\DAlgoritme\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Aidrian\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\theai\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -43,8 +39,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net6.0-windows7.0": {
@@ -70,24 +65,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -96,7 +73,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
