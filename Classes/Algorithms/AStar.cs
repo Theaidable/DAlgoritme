@@ -4,7 +4,7 @@ using Microsoft.Xna.Framework.Input;
 
 namespace DAlgoritme.Classes.Algorithms
 {
-    class AStar
+    public class AStar
     {
     }
 }
